@@ -2,14 +2,13 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#73D877"
+    android:background="#1C7073"
     android:orientation="vertical">
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="INI ADALAH CONTOH FRAGMENT 1"
-        android:textSize="34sp"
-        android:textStyle="bold" />
+        android:text="Ini adalah Fragment 1"
+        android:textSize="24sp" />
 </LinearLayout>
